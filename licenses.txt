@@ -1,0 +1,15 @@
+# DANH SÁCH MÃ MÁY ĐƯỢC KÍCH HOẠT
+# File này chứa danh sách các mã máy được phép sử dụng phần mềm
+# Mỗi dòng là 1 mã máy (16 ký tự)
+# Dòng bắt đầu bằng # là comment, sẽ bị bỏ qua
+# Cách thêm mã máy mới:
+# 1. User gửi mã máy cho bạn
+# 2. Thêm mã máy vào file này (1 dòng 1 mã)
+# 3. Commit và push lên GitHub
+# 4. User nhấn "Kiểm tra kích hoạt" → Xong!
+# ============================================
+# MÃ MÁY ĐƯỢC KÍCH HOẠT
+# ============================================
+# User: Admin Test
+EB431B3062B28F77
+# Thêm mã máy mới ở đây:
