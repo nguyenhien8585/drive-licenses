@@ -15,4 +15,5 @@ EB431B3062B28F77
 # Thêm mã máy mới ở đây:
 # User: thầy Tài
 337B102A0290F9DC
-337B102A0290F9DC
+# User: thầy trí
+5816C217F17B6DC5
