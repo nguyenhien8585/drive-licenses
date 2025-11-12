@@ -11,7 +11,7 @@
 # MÃ MÁY ĐƯỢC KÍCH HOẠT
 # ============================================
 # User: Admin Test
-EB431B3062B28F77
+E2BDE12EE450EF86
 # Thêm mã máy mới ở đây:
 # User: thầy Tài
 4B13CDCCD92B3ECB
