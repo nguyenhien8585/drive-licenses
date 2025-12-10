@@ -1,6 +1,9 @@
 {
-    "keys": [
-        "AB12CD34EF56-LATEX-EQUATION-AI",
-        "998877AABBCC-LATEX-EQUATION-AI"
-    ]
+  "valid_codes": [
+    "A1B2C3D4E5F6G7-LATEX-EQUATION-AI",
+    "H8I9J0K1L2M3N4-LATEX-EQUATION-AI",
+    "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI"
+  ],
+  "version": "1.0",
+  "last_updated": "2024-12-10"
 }
