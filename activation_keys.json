@@ -1,9 +1,9 @@
 {
-  "activated_machines": [
+  "valid_keys": [
     "A1B2C3D4E5F6G7-LATEX-EQUATION-AI",
     "H8I9J0K1L2M3N4-LATEX-EQUATION-AI",
-    "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI",
-    "F128609925D26A-LATEX-EQUATION-AI",
-    "C9D0E1F2G3H4I5-LATEX-EQUATION-AI"
-  ]
+    "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI"
+  ],
+  "last_updated": "2024-12-10",
+  "version": "1.0"
 }
