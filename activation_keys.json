@@ -1,9 +1,185 @@
 {
-  "valid_codes": [
-    "F128609925D26A-LATEX-EQUATION-AI", #NGUYENHIEN
+  "app_info": {
+    "name": "LaTeX to Word Equation Converter",
+    "version": "1.0.0",
+    "last_updated": "2024-12-10",
+    "total_activations": 10,
+    "admin_email": "nguyenhien8585@gmail.com",
+    "admin_zalo": "0123456789",
+    "admin_facebook": "fb.com/yourpage"
+  },
+  "activated_machines": [
+    "A1B2C3D4E5F6G7-LATEX-EQUATION-AI",
     "H8I9J0K1L2M3N4-LATEX-EQUATION-AI",
-    "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI"
+    "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI",
+    "V2W3X4Y5Z6A7B8-LATEX-EQUATION-AI",
+    "C9D0E1F2G3H4I5-LATEX-EQUATION-AI",
+    "J6K7L8M9N0O1P2-LATEX-EQUATION-AI",
+    "Q3R4S5T6U7V8W9-LATEX-EQUATION-AI",
+    "X0Y1Z2A3B4C5D6-LATEX-EQUATION-AI",
+    "E7F8G9H0I1J2K3-LATEX-EQUATION-AI",
+    "L4M5N6O7P8Q9R0-LATEX-EQUATION-AI"
   ],
-  "version": "1.0",
-  "last_updated": "2024-12-10"
+  "machine_details": [
+    {
+      "machine_id": "A1B2C3D4E5F6G7-LATEX-EQUATION-AI",
+      "customer_name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "phone": "0912345678",
+      "activated_date": "2024-12-01",
+      "payment_method": "Chuyển khoản",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Khách hàng VIP - Mua qua Facebook"
+    },
+    {
+      "machine_id": "H8I9J0K1L2M3N4-LATEX-EQUATION-AI",
+      "customer_name": "Trần Thị B",
+      "email": "tranthib@example.com",
+      "phone": "0923456789",
+      "activated_date": "2024-12-05",
+      "payment_method": "Momo",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Giới thiệu từ khách cũ"
+    },
+    {
+      "machine_id": "O5P6Q7R8S9T0U1-LATEX-EQUATION-AI",
+      "customer_name": "Lê Văn C",
+      "email": "levanc@example.com",
+      "phone": "0934567890",
+      "activated_date": "2024-12-08",
+      "payment_method": "Banking",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Sinh viên - Giảm giá 10%"
+    },
+    {
+      "machine_id": "V2W3X4Y5Z6A7B8-LATEX-EQUATION-AI",
+      "customer_name": "Phạm Thị D",
+      "email": "phamthid@example.com",
+      "phone": "0945678901",
+      "activated_date": "2024-12-09",
+      "payment_method": "Chuyển khoản",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Khách hàng mua gói dài hạn"
+    },
+    {
+      "machine_id": "C9D0E1F2G3H4I5-LATEX-EQUATION-AI",
+      "customer_name": "Hoàng Văn E",
+      "email": "hoangvane@example.com",
+      "phone": "0956789012",
+      "activated_date": "2024-12-10",
+      "payment_method": "Momo",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Trường THPT ABC - 50 máy"
+    },
+    {
+      "machine_id": "J6K7L8M9N0O1P2-LATEX-EQUATION-AI",
+      "customer_name": "Đặng Thị F",
+      "email": "dangthif@example.com",
+      "phone": "0967890123",
+      "activated_date": "2024-12-10",
+      "payment_method": "Banking",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Giảng viên đại học"
+    },
+    {
+      "machine_id": "Q3R4S5T6U7V8W9-LATEX-EQUATION-AI",
+      "customer_name": "Võ Văn G",
+      "email": "vovang@example.com",
+      "phone": "0978901234",
+      "activated_date": "2024-12-10",
+      "payment_method": "Momo",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Nghiên cứu sinh"
+    },
+    {
+      "machine_id": "X0Y1Z2A3B4C5D6-LATEX-EQUATION-AI",
+      "customer_name": "Bùi Thị H",
+      "email": "buithih@example.com",
+      "phone": "0989012345",
+      "activated_date": "2024-12-10",
+      "payment_method": "Chuyển khoản",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Công ty XYZ"
+    },
+    {
+      "machine_id": "E7F8G9H0I1J2K3-LATEX-EQUATION-AI",
+      "customer_name": "Dương Văn I",
+      "email": "duongvani@example.com",
+      "phone": "0990123456",
+      "activated_date": "2024-12-10",
+      "payment_method": "Banking",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Tác giả sách"
+    },
+    {
+      "machine_id": "L4M5N6O7P8Q9R0-LATEX-EQUATION-AI",
+      "customer_name": "Trương Thị K",
+      "email": "truongthik@example.com",
+      "phone": "0901234567",
+      "activated_date": "2024-12-10",
+      "payment_method": "Momo",
+      "amount": "99000",
+      "status": "active",
+      "notes": "Biên tập viên"
+    }
+  ],
+  "revoked_machines": [
+    {
+      "machine_id": "Z9Y8X7W6V5U4T3-LATEX-EQUATION-AI",
+      "customer_name": "Test User",
+      "revoked_date": "2024-12-05",
+      "revoked_reason": "Vi phạm bản quyền"
+    }
+  ],
+  "settings": {
+    "allow_offline_mode": true,
+    "require_payment": true,
+    "max_devices_per_customer": 1,
+    "enable_trial": false,
+    "trial_days": 0
+  },
+  "pricing": {
+    "standard": {
+      "price": 99000,
+      "currency": "VND",
+      "description": "Giấy phép vĩnh viễn"
+    },
+    "student": {
+      "price": 89000,
+      "currency": "VND",
+      "description": "Giảm giá cho sinh viên"
+    },
+    "enterprise": {
+      "price": 4950000,
+      "currency": "VND",
+      "description": "Gói 50 máy cho trường học"
+    }
+  },
+  "payment_info": {
+    "momo": {
+      "phone": "0912345678",
+      "name": "NGUYEN VAN ADMIN"
+    },
+    "banking": {
+      "bank": "MB Bank",
+      "account_number": "0912345678",
+      "account_name": "NGUYEN VAN ADMIN"
+    }
+  },
+  "notes": [
+    "File này chứa danh sách các máy đã được kích hoạt",
+    "Admin cần push file này lên GitHub sau mỗi lần thêm/xóa máy",
+    "User sẽ tự động kiểm tra từ URL: https://raw.githubusercontent.com/nguyenhien8585/drive-licenses/refs/heads/main/activation_keys.json",
+    "Mỗi mã máy là duy nhất dựa trên MAC address của máy tính",
+    "Định dạng mã: XXXXXXXXXXXXXX-LATEX-EQUATION-AI"
+  ]
 }
